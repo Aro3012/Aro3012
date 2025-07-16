@@ -46,7 +46,7 @@
 ### 🤝 Let’s Connect!
 📨 Email: **aromalunni3012@gmail.com**
 
-📄 [LinkedIn Profile](https://www.linkedin.com/in/aromal-unni-479915262/)
+📄 [LinkedIn Profile](https:www.linkedin.com/in/aromalunni/)
 
 
 ---
