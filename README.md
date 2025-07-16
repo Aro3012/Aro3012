@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Aromal!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aro3012/Aro3012/main/Aromal%20github%20image.png" alt="Welcome Banner" />
+</p>
 
 ### 💻 Aspiring SoftwareDeveloper | Tech Enthusiast | Problem Solver
 
